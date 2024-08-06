@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Chanula Senindu
 - 👀 I’m interested in Data Science Feild
 - 🌱 I’m currently reading for my degree in BSc Hons in AI and Data Science
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
 
 <!---
 GACS2002/GACS2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
