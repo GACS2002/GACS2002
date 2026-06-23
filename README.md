@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chanula Senindu
 - 👀 I’m interested in Data Science Feild
-- 🌱 I’m currently reading for my degree in BSc Hons in AI and Data Science
+- 🌱 Achived BSc Hons in AI and Data Science
+
 
 
 
